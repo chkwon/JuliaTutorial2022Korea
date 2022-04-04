@@ -146,7 +146,7 @@ Jupyter notebook, then Pluto notebook?
 
 ## Julia 장단점
 - 장점:
-  - C/C++에 비해 빠른 개발 속도
+  - C/C++에 비해 훨씬 빠른 개발 속도
   - C/C++ “만큼” 빠른 실행 속도
 
 - 단점:
@@ -170,6 +170,8 @@ Jupyter notebook, then Pluto notebook?
   - 일반적인 데이터 분석 하는데 주로 Python, R을 쓴다: 굳이?
     - 자체 algorithm 개발은 하는 일이 없고, 주로 library만 쓰는 경우
   - PyTorch, TensorFlow 주로 쓴다: 굳이? 
+    - 강화학습을 이용할 때 CPU에서 시간이 오래 걸리는 simulation 연산을 Julia로 해서 연동하는 것은 추천
+    - 일반적인 GPU 연산은 또 다른 이야기: Flux.jl, CUDA.jl, ...
   - Production level에서 속도가 0.1초라도 빨라야 한다: C/C++, FORTRAN, ...
 
 ## Julia for Mathematical Optimization 
