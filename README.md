@@ -63,7 +63,8 @@ Julia Tutorial 2022, 대전 IBS에서 개최
 - `@` (Macros)
 - Multiple Dispatch
 - Parametric Functions
-- `@code_lowered`, `@code_typed`, `@code_llvm`, `@code_native`
+- JIT Compiler
+  - `@code_lowered`, `@code_typed`, `@code_llvm`, `@code_native`
 
 ## Jupyter Notebook
 
