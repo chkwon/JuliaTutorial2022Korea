@@ -1,4 +1,4 @@
-# Julia Tutorial 2022
+# Julia Tutorial 2022 Korea
 
 Julia Tutorial 2022, 대전 IBS에서 개최
 
