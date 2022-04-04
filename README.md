@@ -69,13 +69,15 @@ Julia Tutorial 2022, 대전 IBS에서 개최
 ## Jupyter Notebook
 
 - 잡담: 
+  - The old name of Jupyter Notebook = IPython Notebook `.ipynb`
+  - IJulia.jl: Julia package for `.ipynb`
   - Jupyter = JU + PYT + R (data science 3대장?)
   - JuliaMono https://juliamono.netlify.app 
 
 ## Julia Speed (vs Python, C)
 
 - Fibonacci Numbers `fib()`
-- `addone!`
+- `addone!()`
 - `@inbounds`
 
 ## Julia *with* Python and C
