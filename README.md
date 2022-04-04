@@ -45,7 +45,7 @@ Julia Tutorial 2022, 대전 IBS에서 개최
 
 ## Julia 간단한 소개
 
-- Hello, World
+- Hello, World / string interpolation
 - Basic Data Types: `Int`, `Float64`, `String`, `Char`, `Bool`
 - Arrays: `Vector`, `Matrix`, `SparseArray`, `SparseMatrixCSC`
 - Abstract Types: `Integer`, `AbstractFloat`, `Real`, `Number`, `AbstractVector`, `AbstractMatrix`, `AbstractArray` 
